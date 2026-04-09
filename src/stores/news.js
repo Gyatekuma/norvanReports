@@ -112,7 +112,7 @@ export const useNewsStore = defineStore('news', {
             category: 'Economy',
             author: 'Grace Mensah',
             time: '8 hours ago',
-            image: 'https://images.unsplash.com/photo-1543286386-713bbd689ade?w=600&h=400&fit=crop',
+            image: 'https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&h=400&fit=crop',
             readTime: '5 min read'
           },
           {
